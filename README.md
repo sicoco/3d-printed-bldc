@@ -1,5 +1,6 @@
-##3d printed bldc motor
-##3D打印无刷直流无铁芯电机
+## 3d printed bldc motor
+
+## 3D打印无刷直流无铁芯电机
 
 ![exploded](model%20pictures/exploded.png)
 
