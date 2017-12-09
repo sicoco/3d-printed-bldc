@@ -1,16 +1,18 @@
-3d printed bldc motor
-3D打印无刷直流无铁芯电机
+##3d printed bldc motor
+##3D打印无刷直流无铁芯电机
 
-![exploded.png](../model pictures/exploded.png)
+![exploded](model%20pictures/exploded.png)
 
-![all.png](../model pictures/all.png)
+![all](model%20pictures/all.png)
 
-![img](../record/IMG_20160626_042955.jpg)
+![img](record/IMG_20160626_042955.jpg)
 
 
-I designed and made an easy to make 3d printed bldc(brushless DC) motor a year ago(2016). Technically it is called 3d printed brushless DC coreless motor. It's called coreles because it don't have an iron core(of course I can't 3d print an iron core which needs thin slices of laminated steel plate). 
+I designed and made an easy to make 3d printed bldc(brushless DC) motor a year ago(2016). 
 
-This motor is just mainly for learning purpose. It can let you learn how motors move and how to wind the motor winding.
+Technically, it is called 3d printed brushless DC coreless motor. It's called coreless because it don't have an iron core(of course I can't 3d print an iron core which needs thin slices of laminated steel plate). 
+
+This motor is just mainly for learning purpose. It can make you learn how motor move and how to wind the motor winding.
 
 This Git is for sharing my bldc 3d model(solidworks, stl files), and also my records on making them.
 
